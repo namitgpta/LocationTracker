@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LocationTracker</string>
+    <string name="track_your_location">Track Your Location</string>
+    <string name="by_namit_gupta_19bci0083">- by Namit Gupta 19BCI0083</string>
+    <string name="track">Track</string>
+    <string name="press_the_track_button">Press the Track Button</string>
+</resources>
